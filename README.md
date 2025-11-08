@@ -1,5 +1,6 @@
 # Olist-Ecommerce-Sales-Analysis
 End-to-end Business Intelligence project using SQL + Power BI
+
 Tools Used: SQL Server (SSMS), Power BI, and DAX
 
 Business Goal: Analyze 99k+ oeders to identify sales trends, top cities, and top product categories.
