@@ -17,3 +17,4 @@ Insights:
 - Average Order Value (AOV) - 160.990
 - Top Revenue City - Sao Paulo
 - "Bed Bath Table" and "Health & Beauty" were top selling product categories.
+https://github.com/KeyshawnBrison/Olist-Ecommerce-Sales-Analysis/commit/3a5bf91ee4bb082a6e10012db464480b7c253145
