@@ -12,3 +12,8 @@ SQL Queries Included
 - Average order value (AOV)
 - Top revenue cities
 - Best-Selling Product Categories
+Insights:
+- Total Revenue - $16,008,872
+- Average Order Value (AOV) - 160.990
+- Top Revenue City - Sao Paulo
+- "Bed Bath Table" and "Health & Beauty" were top selling product categories.
