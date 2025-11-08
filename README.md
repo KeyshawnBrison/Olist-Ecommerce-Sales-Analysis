@@ -18,3 +18,7 @@ Insights:
 - Top Revenue City - Sao Paulo
 - "Bed Bath Table" and "Health & Beauty" were top selling product categories.
 https://github.com/KeyshawnBrison/Olist-Ecommerce-Sales-Analysis/commit/3a5bf91ee4bb082a6e10012db464480b7c253145
+Key Takeaways:
+- Major revenue comes from large metro cities
+- Home & Lifestyle proucts dominate sales
+- Data Modeling + SQL + DAX reveals real business insights
