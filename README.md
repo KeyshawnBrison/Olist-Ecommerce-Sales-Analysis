@@ -29,3 +29,47 @@ Key Takeaways:
 - Major revenue comes from large metro cities
 - Home & Lifestyle proucts dominate sales
 - Data Modeling + SQL + DAX reveals real business insights
+## 📁 Project Structure
+📦 Olist-Ecommerce-Sales-Analysis
+ ┣ 📊 Dashboard.pbix         # Power BI dashboard file
+ ┣ 📜 SQL_Queries.sql        # All SQL queries used
+ ┣ 📄 README.md              # Project documentation
+ ┗ 📂 dataset/               # placeholder or link to original dataset
+ ---
+
+### ✅ 2. Add a section for **Key Insights**
+
+Add this under your KPI list:
+
+```md
+## 🔍 Key Insights
+
+- São Paulo generated the highest revenue across all cities.
+- Average order value: R$ 160.99
+- Total revenue analyzed: R$ 16,008,072
+- Top product categories: *Bed Bath Table* and *Health & Beauty*
+- Credit card was the most used payment method.
+## 📂 Dataset Source
+
+Brazilian E-Commerce Public Dataset  
+https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
+## ▶️ How to Run This Project
+
+1. Clone this repository  
+   `git clone https://github.com/KeyshawnBrison/Olist-Ecommerce-Sales-Analysis.git`
+
+2. Open SQL Server (SSMS)  
+   - Import the CSVs into SQL database
+   - Run the queries located in `SQL_Queries.sql`
+
+3. Open **Dashboard.pbix** in Power BI
+   - Refresh the data connection
+   - Explore visualizations
+## ✅ Results
+
+This analysis helped uncover customer purchasing behavior and revenue trends.
+Insights enable business decisions such as:
+
+- Where to focus marketing spend (São Paulo)
+- Which product categories deserve inventory prioritization
+- Preferred customer payment methods for promotions
